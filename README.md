@@ -1,4 +1,4 @@
-# 👩🏻‍💻📊📈 Julia Paulini
+# 👩🏻‍💻📊 Julia Paulini
 
   ** Cientista de Dados**
   
@@ -7,7 +7,7 @@ Me chamo Julia Roberta Paulini, tenho 27 anos e sou natural de São Paulo. Estou
 Tenho experiência com ferramentas como Excel, SQL e Power BI, além de conhecimento básico em redes neurais artificiais. Valorizo o aprendizado contínuo e adoro compartilhar conhecimento com outras pessoas. Meu objetivo é criar projetos que unam técnica e criatividade, contribuindo para soluções de impacto no mundo dos dados.
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 📈 Linguagens e Tecnologias
 
 <img 
     align="left" 
