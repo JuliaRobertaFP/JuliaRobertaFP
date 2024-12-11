@@ -40,6 +40,15 @@ Tenho experiência com ferramentas como Excel, SQL, Python e Power BI, além de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+
 <br/>
 <br/>
 
