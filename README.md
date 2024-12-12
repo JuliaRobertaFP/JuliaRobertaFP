@@ -2,7 +2,7 @@
   
 Me chamo Julia Roberta Paulini, tenho 27 anos e sou natural de São Paulo. Estou cursando Ciência de Dados na Faculdade Uninter e Formação em Análise de Dados na Comunidade DS. Apaixonada por tecnologia e análise de dados, busco transformar informações em insights relevantes e estratégicos.
 
-Tenho experiência com ferramentas como Excel, SQL, Python e Power BI, além de conhecimento básico em redes neurais artificiais. Valorizo o aprendizado contínuo e adoro compartilhar conhecimento com outras pessoas. Meu objetivo é criar projetos que unam técnica e criatividade, contribuindo para soluções de impacto no mundo dos dados.
+Tenho experiência com ferramentas como Excel, SQL, Python e Power BI, além de conhecimento básico em redes neurais artificiais e conhecimento de negócio de Companhia Aérea. Valorizo o aprendizado contínuo e adoro compartilhar conhecimento com outras pessoas. Meu objetivo é criar projetos que unam técnica e criatividade, contribuindo para soluções de impacto no mundo dos dados.
 
 ---
 ### 📈 Linguagens e Tecnologias
