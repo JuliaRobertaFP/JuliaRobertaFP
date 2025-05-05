@@ -1,4 +1,4 @@
-# 👩🏻‍💻📊   Analista de Dados
+# 👩🏻‍💻📊   Cientista de Dados
   
 Me chamo Julia Roberta Paulini, tenho 27 anos e sou natural de São Paulo. Estou cursando Ciência de Dados na Faculdade Uninter e Formação em Análise de Dados na Comunidade DS. Apaixonada por tecnologia e análise de dados, busco transformar informações em insights relevantes e estratégicos.
 
